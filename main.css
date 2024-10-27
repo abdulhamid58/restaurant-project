@@ -1,0 +1,239 @@
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-family: "Inter";
+  background: #ff880026;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter";
+}
+
+#ftype-container {
+  width: 100%;
+  display: grid;
+  flex-direction: row;
+  justify-items: center;
+  align-items: center;
+  padding-top: 5rem;
+}
+
+#food-types {
+  display: flex;
+  box-sizing: border-box;
+  gap: 20px;
+}
+
+.ftype {
+  width: 400px;
+  aspect-ratio: 1/1;
+  position: relative;
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.ftype > p {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: -5%;
+  color: white;
+  background: #000000a6;
+  padding: 10px 25px 10px 25px;
+  border-radius: 10px;
+}
+
+.ftype > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transform: scale(1);
+  transition: transform 0.6s forwards;
+}
+
+.ftype:hover > img {
+  transform: scale(1.1);
+}
+
+#recipes-container {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  justify-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+#recipe-nav {
+  width: 70%;
+  padding-top: 20px;
+}
+
+#recipes-box {
+  width: 70vw;
+  height: 80vh;
+  display: flex;
+  gap: 10px;
+}
+
+#recipes-box > .col-1 {
+  width: 30%;
+  height: 100%;
+  overflow-y: auto;
+}
+
+#recipes-box > .col-2 {
+  width: 70%;
+  height: 100%;
+  overflow-y: auto;
+}
+
+#food-list {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.food-card {
+  width: 100%;
+  height: 120px;
+  display: flex;
+  overflow: hidden;
+  background: white;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  transition: all 0.5s forwards;
+}
+
+.food-card:hover {
+  transform: scale(1.02);
+}
+
+.food-card > img {
+  height: 100%;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+}
+
+.food-card > div {
+  padding: 10px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  box-shadow: #000;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+.recipe-details {
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  background: #fff;
+}
+
+#info-image {
+  width: 100%;
+  height: 500px;
+  object-fit: cover;
+}
+
+ul {
+  padding-top: 10px;
+  list-style: inside;
+}
+
+li {
+  list-style: disc inside;
+  margin-bottom: 10px !important;
+}
+
+#back-button {
+  border: none;
+  padding: 5px 10px 5px 10px;
+  background: #000;
+  color: white;
+  font-size: 1.3rem;
+  border-radius: 5px;
+}
+
+.hidden {
+  visibility: hidden !important;
+  display: none;
+}
+
+#ingredients-list > li {
+  margin-bottom: 4px;
+}
+
+*::-webkit-scrollbar {
+  background-color: transparent;
+  width: 5px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #ff88008c;
+  width: 5px;
+  border-radius: 5px;
+}
+
+#likes-count {
+  color: red;
+  max-width: fit-content;
+  font-weight: 700;
+}
+
+#like-btn {
+  border: none;
+  background: red;
+  color: white;
+  max-width: fit-content;
+  font-weight: 700;
+  padding: 5px 10px 5px 10px;
+  border-radius: 4px;
+  
+}
+
+button {
+  border: none;
+  padding: 6px 10px 6px 10px;
+}
+
+#comment-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+#comment-form > button {
+  width: 500px;
+  padding: 10px;
+  background-color: green;
+  color: white;
+}
+
+#comment-box {
+  width: 500px;
+  resize: none;
+  padding: 10px;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}

@@ -1,0 +1,1880 @@
+{
+  "drinks": [
+    {
+      "id": "1",
+      "name": "Afternoon Delight",
+      "price": "700",
+      "strAlcoholic": "Vegan",
+      "directions": [
+        {
+          "direction": "Pour gin, lemon juice, orange juice, simple syrup, and brandy into a shaker."
+        },
+        {
+          "direction": "Fill the shaker with ice, cover, and shake until chilled."
+        },
+        {
+          "direction": " Strain cocktail into a Collins glassed filled with ice."
+        },
+        {
+          "direction": " Top with club soda and garnish with orange slice."
+        }
+      ],
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/b2/eb/b2eb361f5c873993015d50047df4acb1_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "1 orange slice"
+        },
+        {
+          "ingredient": "3/4 fluid ounce simple syrup"
+        },
+        {
+          "ingredient": "3/4 fluid ounce lemon juice"
+        },
+        {
+          "ingredient": "3/4 fluid ounce orange juice"
+        },
+        {
+          "ingredient": "Ice"
+        },
+        {
+          "ingredient": "2 fluid ounces gin"
+        },
+        {
+          "ingredient": "1/2 fluid ounce brandy"
+        },
+        {
+          "ingredient": "2 fluid ounces club soda, or to taste"
+        }
+      ],
+      "rating": 80,
+      "Calories": 302.5,
+      "Protein": 1.2,
+      "Fat": 0.2,
+      "Carbohydrates": 29.7,
+      "likes": 0,
+      "comment": []
+    },
+    {
+      "id": "2",
+      "name": "Cosmopolitan Cocktail",
+      "price": "750",
+      "strAlcoholic": "Vegan",
+      "directions": [
+        {
+          "direction": "Add all ingredients to a cocktail shaker filled with ice and shake until cold to the touch."
+        },
+        {
+          "direction": "Strain into a chilled martini glass."
+        },
+        {
+          "direction": "Garnish with an orange twist."
+        }
+      ],
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/b9/71/b971e2402115dc9b2083c69d33ae6722_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "2 ounces Absolut Citron (citrus vodka)"
+        },
+        {
+          "ingredient": "1/4 ounce simple syrup"
+        },
+        {
+          "ingredient": "3/4 ounce cranberry juice"
+        },
+        {
+          "ingredient": "3/4 ounce lime juice"
+        },
+        {
+          "ingredient": "3/4 ounce Cointreau"
+        }
+      ],
+      "rating": 73,
+      "Calories": 223,
+      "Protein": 0,
+      "Fat": 0,
+      "Carbohydrates": 13,
+      "likes": 0,
+      "comment": []
+    },
+    {
+      "id": "3",
+      "name": "Sugar Cookie Martinis",
+      "price": "650",
+      "strAlcoholic": "Vegetarian",
+      "directions": [
+        {
+          "direction": "In a cocktail shaker, combine milk, Baileys, vodka, and amaretto."
+        },
+        {
+          "direction": " Add ice and shake until cold. "
+        },
+        {
+          "direction": "Pour into glasses and garnish rim with a cookie."
+        }
+      ],
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/c6/8b/c68be058fc965f22042d8b9772f2bb79_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "1/2 cup vanilla frosting"
+        },
+        {
+          "ingredient": "1/4 cup sprinkles, plus 1 tsp, divided"
+        },
+        {
+          "ingredient": "Pre-made sugar cookie dough"
+        },
+        {
+          "ingredient": "1/2 cup whole milk"
+        },
+        {
+          "ingredient": "ice"
+        },
+        {
+          "ingredient": "1/4 cup Baileys"
+        },
+        {
+          "ingredient": "2 oz vanilla vodka"
+        },
+        {
+          "ingredient": "2 oz amaretto"
+        }
+      ],
+      "rating": 89,
+      "Calories": 260,
+      "Protein": 0,
+      "Fat": 0,
+      "Carbohydrates": 22,
+      "likes": 0,
+      "comment": []
+    },
+    {
+      "id": "4",
+      "name": "Grapefruit Cardamom Gin Fizz",
+      "price": "900",
+      "strAlcoholic": "alcoholic",
+      "directions": [
+        {
+          "direction": "In a small jar with an airtight lid add gin and cardamom pods. Seal and store for 24 hours."
+        },
+        {
+          "direction": "To make the rosemary simple syrup, bring sugar, water and 2 rosemary sprigs to a simmer in a small saucepan until sugar is dissolved. Remove from heat and allow to cool completely. Remove the rosemary and use right away, or store in an airtight container in the refrigerator for up to a week."
+        },
+        {
+          "direction": "To make the cocktail pour rosemary syrup, infused gin and grapefruit juice over ice in a cocktail mixer and shake to combine."
+        },
+        {
+          "direction": "Using a strainer, divide the mixture in two glasses filled with fresh ice."
+        },
+        {
+          "direction": "Top with prosecco and garnish with a sprig of rosemary and a grapefruit peel. Cheers!"
+        }
+      ],
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/d0/5b/d05bb98912bda742a91ecfed91a16ef8_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "Rosemary sprigs"
+        },
+        {
+          "ingredient": "Grapefruit peel, for garnish"
+        },
+        {
+          "ingredient": "2 rosemary sprigs"
+        },
+        {
+          "ingredient": "2 oz rosemary syrup (recipe below)"
+        },
+        {
+          "ingredient": "6 cardamom pods"
+        },
+        {
+          "ingredient": "1 cup sugar"
+        },
+        {
+          "ingredient": "1/2 cup grapefruit juice"
+        },
+        {
+          "ingredient": "3 oz cardamom infused gin (recipe below)"
+        },
+        {
+          "ingredient": "Splash of prosecco, chilled"
+        },
+        {
+          "ingredient": "1 cup gin"
+        },
+        {
+          "ingredient": "1 cup water"
+        }
+      ],
+      "rating": 85,
+      "Calories": 201,
+      "Protein": 0,
+      "Fat": 0,
+      "Carbohydrates": 26,
+      "likes": 0,
+      "comment": []
+    },
+    {
+      "id": "5",
+      "name": "Frothy Whipped Coffee White Russian",
+      "price": "1300",
+      "strAlcoholic": "Vegan",
+      "directions": [
+        {
+          "direction": "Combine the hot water, instant coffee, and honey in a bowl. Using an electric mixer, whip until fluffy and light, 2-3 minutes. Alternately, you can do this with a hand frother too. "
+        },
+        {
+          "direction": ". Fill a glass with ice. Add the vodka, Kahlua, and a splash of vanilla. Stir. Pour the milk over and stir to combine. Spoon the whipped coffee overtop. Gently stir and enjoy!"
+        }
+      ],
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/4c/73/4c73e9049a7204a392a8e8fd6a81c847_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "1 tablespoon honey or granulated sugar"
+        },
+        {
+          "ingredient": "1/4 teaspoon vanilla extract"
+        },
+        {
+          "ingredient": "1 tablespoon instant coffee powder"
+        },
+        {
+          "ingredient": "1-2 ounces (2-4 tablespoons) whole milk or nut milk"
+        },
+        {
+          "ingredient": "2 ounces (1/4 cup) vodka"
+        },
+        {
+          "ingredient": "1-1 1/2 ounces (2-3 tablespoons) Kahlua"
+        },
+        {
+          "ingredient": "1 tablespoon hot water"
+        }
+      ],
+      "rating": 95,
+      "Calories": 372,
+      "Protein": 0,
+      "Fat": 0,
+      "Carbohydrates": 0,
+      "likes": 0,
+      "comment": []
+    },
+    {
+      "id": "6",
+      "name": "Moscato Margaritas",
+      "price": "700",
+      "strAlcoholic": "Vegan",
+      "directions": [
+        {
+          "direction": "In a small dish, pour sugar. Rim glasses with lime wedge then dip in sugar."
+        },
+        {
+          "direction": "Combine strawberries, tequila, moscato, triple sec, lime juice, and ice in blender. Blend until smooth, then divide mixture between 4 glasses, garnish with lime wedges and serve."
+        }
+      ],
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/7d/1d/7d1d1956f3728bc8c6ad8faedb9710b5_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "Lime wedges"
+        },
+        {
+          "ingredient": "1 cup chopped strawberries"
+        },
+        {
+          "ingredient": "1/4 cup granulated sugar"
+        },
+        {
+          "ingredient": "2 cup ice"
+        },
+        {
+          "ingredient": "1 cup tequila"
+        },
+        {
+          "ingredient": "1 cup triple sec"
+        },
+        {
+          "ingredient": "1 cup moscato"
+        }
+      ],
+      "rating": 89,
+      "Calories": 250,
+      "Protein": 0,
+      "Fat": 0,
+      "Carbohydrates": 0,
+      "likes": 0,
+      "comment": []
+    },
+    {
+      "id": "7",
+      "name": "Bourbon Stout Cocktail",
+      "price": "750",
+      "strAlcoholic": "alcoholic",
+      "directions": [
+        {
+          "direction": "Stir together stout, bourbon, vanilla, and syrup. Serve over ice and drizzle with cream."
+        }
+      ],
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/9c/d6/9cd67416980f75482367cb478808b15c_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "1 teaspoon vanilla"
+        },
+        {
+          "ingredient": "1-2 tablespoon chocolate-flavored syrup"
+        },
+        {
+          "ingredient": "Half-and-half or light cream"
+        },
+        {
+          "ingredient": "Ice cubes"
+        },
+        {
+          "ingredient": "1/2 cup chocolate stout"
+        },
+        {
+          "ingredient": "1/4 cup bourbon"
+        }
+      ],
+      "rating": 75,
+      "Calories": 261,
+      "Protein": 1,
+      "Fat": 2,
+      "Carbohydrates": 17,
+      "likes": 0,
+      "comment": []
+    },
+    {
+      "id": "8",
+      "name": "Classic Hot Tuddy",
+      "price": "1050",
+      "strAlcoholic": "alcoholic",
+      "directions": [
+        {
+          "direction": "In a teapot or saucepan, bring the water to a simmer. Pour the hot water into a mug."
+        },
+        {
+          "direction": "Add the whiskey, 2 teaspoons honey and 2 teaspoon lemon juice. Stir until the honey has disappeared into the hot water. Taste, and add 1 teaspoon honey for more sweetness, and/or 1 teaspoon more lemon juice for more zing."
+        },
+        {
+          "direction": "Garnish with a lemon round and cinnamon stick (if using). Enjoy!"
+        }
+      ],
+      "image": "https://cookieandkate.com/images/2017/12/classic-hot-toddy-recipe-2-768x1151.jpg",
+      "ingredients": [
+        {
+          "ingredient": "1 lemon round"
+        },
+        {
+          "ingredient": "1 cinnamon stick (optional, for garnish)"
+        },
+        {
+          "ingredient": "2 to 3 teaspoons lemon juice, to taste"
+        },
+        {
+          "ingredient": "1 1/2 ounces whiskey"
+        },
+        {
+          "ingredient": "3/4 cup water"
+        }
+      ],
+      "rating": 92,
+      "Calories": 149,
+      "Protein": 0,
+      "Fat": 0,
+      "Carbohydrates": 11.8,
+      "likes": 0,
+      "comment": []
+    },
+    {
+      "id": "9",
+      "name": "Horchata",
+      "price": "550",
+      "strAlcoholic": "vegeterian",
+      "directions": [
+        {
+          "direction": "Add rice, almonds and cinnamon sticks to a high speed blender. Blend about 30 - 60 seconds on high speed or until finely pulverized, stopping occasionally and shaking blender if mixture sticks to the bottom."
+        },
+        {
+          "direction": "Pour in 2 cups water, sugar and vanilla. Blend an additional 30 seconds. If your blender can fit the additional liquid pour in remaining 2 cups water, and milk, otherwise pour into a large enough container to fit along with water and milk."
+        },
+        {
+          "direction": "Cover and chill 8 - 12 hours."
+        },
+        {
+          "direction": "Strain mixture through a fine mesh sieve into a pitcher. Serve with ice if desired, garnishing each serving with ground cinnamon or cinnamon sticks."
+        }
+      ],
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/03/6c/036cf224c7c7341770a6ecd19e4d4c81_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "1/2 cup (50 g) sliced almonds"
+        },
+        {
+          "ingredient": "1 1/4 cups (244 g) long grain white rice (dry uncooked)"
+        },
+        {
+          "ingredient": "1/2 cup (100 g) granulated sugar (or more to taste)"
+        },
+        {
+          "ingredient": "1 tsp vanilla extract"
+        },
+        {
+          "ingredient": "2 cups (475 ml) whole milk"
+        },
+        {
+          "ingredient": "4 cups (945 ml) cold water"
+        }
+      ],
+      "rating": 90,
+      "Calories": 247,
+      "Protein": 4,
+      "Fat": 5,
+      "Carbohydrates": 45,
+      "likes": 0,
+      "comment": []
+    },
+    {
+      "id": "10",
+      "name": "Detox Lemonade",
+      "price": "400",
+      "strAlcoholic": "fruit drink",
+      "directions": [
+        {
+          "direction": "In a mug, combine lemon juice, honey, cayenne, ground ginger, and ground cloves."
+        },
+        {
+          "direction": " Pour over hot water and stir to combine."
+        },
+        {
+          "direction": "Top with a lemon slice."
+        }
+      ],
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/55/4d/554dc77f4951101e37d96b260848464d_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "Juice of 1 lemon"
+        },
+        {
+          "ingredient": "1 tsp. honey"
+        },
+        {
+          "ingredient": "Pinch of cayenne"
+        },
+        {
+          "ingredient": "Pinch of ground ginger"
+        },
+        {
+          "ingredient": "Pinch of ground cloves"
+        },
+        {
+          "ingredient": "1 c. hot water"
+        },
+        {
+          "ingredient": "lemon slice, for garnish"
+        }
+      ],
+      "rating": 88,
+      "Calories": 207,
+      "Protein": 0,
+      "Fat": 0,
+      "Carbohydrates": 11,
+      "likes": 0,
+      "comment": []
+    },
+    {
+      "id": "11",
+      "name": "Pink Vodka Lemonade Cocktail",
+      "price": "450",
+      "strAlcoholic": "Cocktail",
+      "directions": [
+        {
+          "direction": "Combine all of the ingredients in a large pitcher filled with ice, adding the soda last."
+        },
+        {
+          "direction": " Serve immediately."
+        }
+      ],
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/7d/3f/7d3fc1e4e9a628cdd498324ca59c94b2_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "2 cups ice"
+        },
+        {
+          "ingredient": "180 ml vodka (3/4 cup)"
+        },
+        {
+          "ingredient": "80 ml Lime juice (1/3 cup)"
+        },
+        {
+          "ingredient": "80 ml Cranberry juice (1/3 cup)"
+        },
+        {
+          "ingredient": "60 ml Malibu (1/4 cup)"
+        },
+        {
+          "ingredient": "1.25 quart (litre) Lemonade (Sprite)"
+        }
+      ],
+      "rating": 88,
+      "Calories": 179,
+      "Protein": 0,
+      "Fat": 0,
+      "Carbohydrates": 9,
+      "likes": 0,
+      "comment": []
+    },
+    {
+      "id": "12",
+      "name": "Tropical Mermaid Lemonade",
+      "price": "350",
+      "strAlcoholic": "Fruit Drink",
+      "directions": [
+        {
+          "direction": "Put 1/4 cup ice in each glass, then add a splash of blue curaçao, 1/4 cup rum, and another 1/4 cup ice. (The ice helps with the ombré.)"
+        },
+        {
+          "direction": "Pour over 1/2 cup lemonade."
+        },
+        {
+          "direction": "Skewer a lemon slice and 2 maraschino cherries on a paper umbrella or toothpick and garnish drinks before serving."
+        }
+      ],
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/32/1b/321b8322c25ecb1d27afa166d0ebd87d_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "4 lemon slices"
+        },
+        {
+          "ingredient": "8 maraschino cherries"
+        },
+        {
+          "ingredient": "2 cup lemonade"
+        },
+        {
+          "ingredient": "2 cup ice"
+        },
+        {
+          "ingredient": "1/4 cup blue curacao"
+        },
+        {
+          "ingredient": "1 cup white rum"
+        }
+      ],
+      "rating": 87,
+      "Calories": 102,
+      "Protein": 0,
+      "Fat": 0,
+      "Carbohydrates": 7,
+      "likes": 0,
+      "comment": []
+    },
+    {
+      "id": "13",
+      "name": "Carrot Ginger Turmeric Smoothie",
+      "price": "650",
+      "strAlcoholic": "smoothie",
+      "directions": [
+        {
+          "direction": "Make carrot juice"
+        },
+        {
+          "direction": "Transfer carrot juice to a mason jar – will keep for several days, though best when fresh."
+        },
+        {
+          "direction": "To the blender add smoothie ingredients and blend on high until creamy and smooth. Add more carrot juice or almond milk if it has trouble blending. Scrape down sides as needed."
+        }
+      ],
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/cd/e7/cde70e121ca6248043c9ad70fd4c8d68_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "2 cups carrots"
+        },
+        {
+          "ingredient": "1 large ripe banana (previously peeled, sliced and frozen // more for a sweeter smoothie)"
+        },
+        {
+          "ingredient": "1 cup frozen or fresh pineapple"
+        },
+        {
+          "ingredient": "1/2 tbsp fresh ginger (peeled // 1 small knob yields ~1/2 Tbsp)"
+        },
+        {
+          "ingredient": "1/4 tsp ground turmeric (or sub cinnamon)"
+        },
+        {
+          "ingredient": "1/2 cup carrot juice"
+        },
+        {
+          "ingredient": "1 tbsp lemon juice (1/2 small lemon yields ~1 Tbsp or 15 ml)"
+        },
+        {
+          "ingredient": "1 cup unsweetened almond milk"
+        },
+        {
+          "ingredient": "1 1/2 cups filtered water"
+        }
+      ],
+      "rating": 93,
+      "Calories": 144,
+      "Protein": 2.4,
+      "Fat": 2.3,
+      "Carbohydrates": 32,
+      "likes": 0,
+      "comment": []
+    },
+    {
+      "id": "14",
+      "name": "Strawberry Banana Smoothie",
+      "price": "600",
+      "strAlcoholic": "smoothie",
+      "directions": [
+        {
+          "direction": "Add the almond milk, yogurt, almonds, oats, banana, strawberries, and honey (if using) in a blender."
+        },
+        {
+          "direction": "Blend on medium speed for 30 seconds, using the tamper if needed to push the ingredients down. Increase speed to high and process until smooth and creamy, about 30 to 60 seconds."
+        },
+        {
+          "direction": "Taste and add more honey as needed."
+        }
+      ],
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/d0/27/d02740f14c416a6001c9977fafa700fb_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "1/4 cup almonds (raw )"
+        },
+        {
+          "ingredient": "1/2 cup sliced bananas (about 1 medium banana)"
+        },
+        {
+          "ingredient": "2 cups strawberries (frozen)"
+        },
+        {
+          "ingredient": "1/2 cup old fashioned oats"
+        },
+        {
+          "ingredient": "1 teaspoon honey (optional)"
+        },
+        {
+          "ingredient": "1/2 cup plain greek yogurt (or vanilla)"
+        },
+        {
+          "ingredient": "2/3 cup almond milk (unsweetened)"
+        }
+      ],
+      "rating": 88,
+      "Calories": 365,
+      "Protein": 14,
+      "Fat": 14,
+      "Carbohydrates": 51,
+      "likes": 0,
+      "comment": []
+    }
+  ],
+  "icecream": [
+    {
+      "id": "1",
+      "name": "No Churn Paleo & Keto Chocolate Ice Cream",
+      "price": "330",
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/7d/ff/7dff052494e6cf37422a33d38b4c0d1d_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "135-150 g xylitol"
+        },
+        {
+          "ingredient": "50-75 g cocoa powder"
+        },
+        {
+          "ingredient": "1/4 teaspoon xanthan gum (or 3/4 teaspoon arrowroot flour if paleo)"
+        },
+        {
+          "ingredient": "1 teaspoon vanilla extract"
+        },
+        {
+          "ingredient": "480 g heavy whipping cream (or coconut cream)"
+        },
+        {
+          "ingredient": "1 13.5-ounce can full fat coconut milk"
+        },
+        {
+          "ingredient": "2 tablespoons vodka or booze of choice (optional)"
+        },
+        {
+          "ingredient": "1/4 teaspoon kosher salt"
+        }
+      ],
+      "directions": [
+        {
+          "direction": "Add coconut milk, sweetener, cocoa and salt to a saucepan over medium heat. Mix using an immersion blender or whisk until all the solids from the coconut milk have the dissolved and the mixture is fully blended. "
+        },
+        {
+          "direction": "Sprinkle xanthan gum little by little and blend until fully combined. You will likely have some air bubbles, but be sure to check there are no lumps. Any lumps will be resolved by mixing with an immersion blender (or in an actual blender). Remove from heat and allow the mixture to cool completely."
+        },
+        {
+          "direction": "Add heavy whipping cream to a large chilled bowl and whip until soft peaks form. Blend in vanilla extract and the cooled chocolate mixture. (Optional): add in more cocoa, to taste, for a dark chocolate version. "
+        },
+        {
+          "direction": "If freezing overnight: take out your ice cream 10-20 minutes prior to serving (depending on your room temp!) and scoop away."
+        }
+      ],
+      "rating": 92,
+      "Calories": 245,
+      "Protein": 2,
+      "Fat": 25,
+      "Carbohydrates": 4,
+      "likes": 0,
+      "comment": []
+    },
+    {
+      "id": "2",
+      "name": "Dirty Snowmen",
+      "price": "400",
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/58/0e/580ed5494954f50af30fa04e802827af_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "1/4 cup melted chocolate, for rim"
+        },
+        {
+          "ingredient": "1/2 cup chocolate shavings"
+        },
+        {
+          "ingredient": "Whipped cream, for serving"
+        },
+        {
+          "ingredient": "1 pint vanilla ice cream"
+        },
+        {
+          "ingredient": "1/2 cup Baileys"
+        },
+        {
+          "ingredient": "2 cup hot chocolate"
+        }
+      ],
+      "directions": [
+        {
+          "direction": "Pour melted chocolate and chocolate shavings into separate shallow dishes. Dip rims of two mugs in melted chocolate then immediately dip in chocolate shavings."
+        },
+        {
+          "direction": "Using a medium cookie scoop, add a few scoops of ice cream into each mug. Pour hot chocolate and Baileys on top."
+        },
+        {
+          "direction": "Top with whipped cream and sprinkle with any extra chocolate shavings."
+        }
+      ],
+      "rating": 89,
+      "Calories": 360,
+      "Protein": 3,
+      "Fat": 14,
+      "Carbohydrates": 40,
+      "likes": 0,
+      "comment": []
+    },
+    {
+      "id": "3",
+      "name": "Cotton Candy Ice Cream",
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/89/44/894437a5da09f64948dabc0f1696fe06_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "3/4 cup granulated sugar"
+        },
+        {
+          "ingredient": "1/2 cup cotton candy syrup"
+        },
+        {
+          "ingredient": "1 teaspoon vanilla extract"
+        },
+        {
+          "ingredient": "Food coloring (optional)"
+        },
+        {
+          "ingredient": "2 cup heavy whipping cream"
+        },
+        {
+          "ingredient": "1 cup whole milk"
+        }
+      ],
+      "directions": [
+        {
+          "direction": "In a medium bowl, whisk together heavy whipping cream, milk, sugar, cotton candy syrup, and vanilla extract until sugar is dissolved."
+        },
+        {
+          "direction": "Pour the mixed ice cream mixture into the chilled bowl/attachment of your ice cream maker."
+        },
+        {
+          "direction": "Churn ice cream for 25-30 minutes or until desired consistency is reached."
+        },
+        {
+          "direction": "If you'd like soft ice cream, serve cotton candy ice cream immediately. If you'd like firmer ice cream, transfer the ice cream to your chosen storage container and let it freeze for another 4-6 hours."
+        }
+      ],
+      "rating": 89,
+      "Calories": 478,
+      "Protein": 3,
+      "Fat": 31,
+      "Carbohydrates": 51,
+      "likes": 0,
+      "comment": []
+    },
+    {
+      "id": "4",
+      "name": "Dole Pineapple Whips",
+      "price": "450",
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/22/4d/224d154a18e5c347bfab74082e644bbf_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "2 cups frozen pineapple chunks"
+        },
+        {
+          "ingredient": "1/3 cup sugar"
+        },
+        {
+          "ingredient": "2 tablespoons lemon juice"
+        },
+        {
+          "ingredient": "2 tablespoons lime juice"
+        },
+        {
+          "ingredient": "1/2 cup Pineapple Juice"
+        },
+        {
+          "ingredient": "1 cup vanilla ice cream"
+        }
+      ],
+      "directions": [
+        {
+          "direction": "Place the frozen pineapple, lemon juice, lime juice, sugar, vanilla ice cream and pineapple juice in a blender. Blend until smooth."
+        },
+        {
+          "direction": "Put in a gallon sized bag and let freeze for 1 hour or until it reaches desired consistency."
+        },
+        {
+          "direction": "Scoop the mixture into a cup and pour pineapple juice on top to make it a float!"
+        }
+      ],
+      "rating": 88,
+      "Calories": 546,
+      "Protein": 3,
+      "Fat": 33,
+      "Carbohydrates": 64,
+      "likes": 1,
+      "comment": []
+    },
+    {
+      "id": "5",
+      "name": "Tartufo",
+      "price": "600",
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/7b/27/7b27bfed7caaf74cc46c6ec528d29993_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "5 tablespoons liquid refined or unrefined coconut oil, divided"
+        },
+        {
+          "ingredient": "1 (12-ounce) bag semisweet chocolate chips"
+        },
+        {
+          "ingredient": "18 chocolate wafer cookies, such as Nabisco"
+        },
+        {
+          "ingredient": "1 pint vanilla ice cream (2 cups)"
+        },
+        {
+          "ingredient": "1 pint coffee ice cream (2 cups)"
+        }
+      ],
+      "directions": [
+        {
+          "direction": "Starting in the center and moving outward around the sides, pour the chocolate over the tartufos. Keeping the tartufos on the rack, freeze until the shells are completely hardened and the ice cream is firm, at least 10 minutes, but ideally 1 hour. To serve, loosen each tartufo from the rack with a metal spatula that has been warmed slightly under warm water and dried. (Alternatively, once the shells are hardened, cover loosely in plastic wrap and freeze for up to 5 days.)"
+        }
+      ],
+      "rating": 85,
+      "Calories": 369,
+      "Protein": 10,
+      "Fat": 60.9,
+      "Carbohydrates": 105.1,
+      "likes": 0,
+      "comment": []
+    }
+  ],
+  "burgers": [
+    {
+      "id": "1",
+      "name": "Bacon Cheeseburger Slider Bake",
+      "price": "600",
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/8d/02/8d0211a3bdb748af22df866aac6b8d57_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "2 pounds ground beef"
+        },
+        {
+          "ingredient": "24 bacon strips, cooked and crumbled"
+        },
+        {
+          "ingredient": "1 cup chopped onion"
+        },
+        {
+          "ingredient": "1 can (14-1/2 ounces) diced tomatoes with garlic and onion, drained"
+        },
+        {
+          "ingredient": "1 tablespoon Dijon mustard"
+        },
+        {
+          "ingredient": "1 tablespoon Worcestershire sauce"
+        },
+        {
+          "ingredient": "4 teaspoons Worcestershire sauce"
+        },
+        {
+          "ingredient": "2 tablespoons Dijon mustard"
+        },
+        {
+          "ingredient": "1/4 cup packed brown sugar"
+        },
+        {
+          "ingredient": "2 tablespoons sesame seeds"
+        },
+        {
+          "ingredient": "22 slices American or cheddar cheese"
+        },
+        {
+          "ingredient": "1 cup butter, cubed"
+        },
+        {
+          "ingredient": "3/4 teaspoon salt"
+        },
+        {
+          "ingredient": "3/4 teaspoon pepper"
+        }
+      ],
+      "directions": [
+        {
+          "direction": "Preheat oven to 350°. Without separating rolls, cut each package of rolls horizontally in half; arrange bottom halves in 2 greased 13x9-in. baking pans. In each pan, place 5 slices of cheese on bottom halves of rolls. Bake until cheese is melted, 3-5 minutes."
+        },
+        {
+          "direction": "In a large skillet, cook beef and onion over medium heat until beef is no longer pink and onion is tender, breaking beef into crumbles, 6-8 minutes; drain. Stir in tomatoes, mustard, Worcestershire sauce, salt and pepper. Cook and stir until combined, 1-2 minutes."
+        },
+        {
+          "direction": "Spoon beef mixture evenly over rolls; top with bacon and remaining cheese. Replace tops. For glaze, in a microwave-safe bowl, combine butter, brown sugar, Worcestershire sauce and mustard. Microwave, covered, on high until butter is melted, stirring occasionally. Pour over rolls; sprinkle with sesame seeds. Bake, uncovered, until golden brown and heated through, 20-25 minutes."
+        }
+      ],
+      "rating": 99,
+      "Calories": 380,
+      "Protein": 18,
+      "Fat": 24,
+      "Carbohydrates": 21,
+      "likes": 1,
+      "comment": "this is a comment"
+    },
+    {
+      "id": "2",
+      "name": "Sweet Potato Black Bean Burger",
+      "price": "650",
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/8b/78/8b783ac89352fc7362d904f0490e8851_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "2 cups mashed sweet potato (2 large sweet potatoes // organic when possible)"
+        },
+        {
+          "ingredient": "1 cup cooked salted black beans (rinsed and well drained // if unsalted, add more salt..."
+        },
+        {
+          "ingredient": "1/2 cup finely diced green onion"
+        },
+        {
+          "ingredient": "2 1/2 tsp ground cumin"
+        },
+        {
+          "ingredient": "1/4 tsp chipotle powder (optional)"
+        },
+        {
+          "ingredient": "Sliced avocado"
+        },
+        {
+          "ingredient": "Sprouts, lettuce or parsley"
+        },
+        {
+          "ingredient": "Sliced onion"
+        },
+        {
+          "ingredient": "1-1 1/2 cups cooked brown rice"
+        },
+        {
+          "ingredient": "Whiskey BBQ Ketchup"
+        },
+        {
+          "ingredient": "Olive oil (for cooking sweet potato)"
+        },
+        {
+          "ingredient": "1/2 cup walnut or pecan meal (or very finely chopped)"
+        },
+        {
+          "ingredient": "1 tsp smoked paprika"
+        },
+        {
+          "ingredient": "1 tbsp brown sugar (optional // for added sweetness)"
+        },
+        {
+          "ingredient": "1/4 tsp each salt and pepper (to taste)"
+        }
+      ],
+      "directions": [
+        {
+          "direction": "Preheat oven to 400 degrees F (204 C) and cut sweet potatoes in half. Rub with olive oil and place face down on a foil-lined baking sheet. Bake sweet potatoes until soft and tender to the touch – about 30 minutes – set aside. Reduce oven heat to 375 degrees F (190 C)."
+        },
+        {
+          "direction": "While potatoes are baking, cook rice or quinoa (see notes for direction)."
+        },
+        {
+          "direction": "Add black beans to a mixing bowl and mash half of them for texture. Then add sweet potato and lightly mash, then 1 cup rice (amount as original recipe is written // if altering batch size, start with lesser end of range), green onion, nut meal and spices. Mix to combine. Taste and adjust seasonings as needed. Add more rice or nut meal if the mixture feels too wet. It should be very moist but moldable."
+        },
+        {
+          "direction": "Fill the lined measuring cup with sweet potato mixture. Scrape down to pack, then lift out and transfer to the baking sheet and gently press down to mash. The thinner you press them, the faster they’ll cook, but no need to go too far. Just a gentle press will do."
+        },
+        {
+          "direction": "Bake burgers for a total 30-45 minutes, carefully flipping 20 minutes in to ensure even cooking. The longer you bake them the firmer and drier they will get – up to preference. I went for around the 35 minute mark."
+        },
+        {
+          "direction": "Serve on slider buns (double stack for more bulk) or atop a salad with sliced avocado, red onion, greens, and ketchup or salsa."
+        },
+        {
+          "direction": "Store leftovers covered in the fridge for up to a few days. Freeze for longer term storage."
+        }
+      ],
+      "rating": 95,
+      "Calories": 113,
+      "Protein": 3.3,
+      "Fat": 3.6,
+      "Carbohydrates": 17.9,
+      "likes": 0,
+      "comment": []
+    },
+    {
+      "id": "3",
+      "name": "Hawaiian Roll Sliders",
+      "price": "750",
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/bb/6e/bb6e81da50e03574d7f6c24bed307d2b_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "12 thin slices deli roast beef (about 12 ounces)"
+        },
+        {
+          "ingredient": "2 large sweet onions (such as Vidalia), thinly sliced"
+        },
+        {
+          "ingredient": "1/2 teaspoon onion powder"
+        },
+        {
+          "ingredient": "1 tablespoon finely chopped fresh parsley leaves, for garnish (optional)"
+        },
+        {
+          "ingredient": "2 teaspoons Worcestershire sauce"
+        },
+        {
+          "ingredient": "1/2 teaspoon garlic powder"
+        },
+        {
+          "ingredient": "1 (12-ounce) package Hawaiian sweet dinner rolls, such as King’s"
+        },
+        {
+          "ingredient": "2 tablespoons unsalted butter, divided"
+        },
+        {
+          "ingredient": "8 ounces Gruyère cheese, grated"
+        },
+        {
+          "ingredient": "1/2 teaspoon kosher salt"
+        }
+      ],
+      "directions": [
+        {
+          "direction": "Heat 1 tablespoon of the butter in a large skillet over medium until melted. Add the onions and salt and cook, stirring every 5 to 10 minutes and scraping any browned bits from the bottom of the pan, until soft and deeply browned, about 40 minutes total. Stir in the Worcestershire sauce, again scraping the bottom of the pan. Remove the pan from the heat. Meanwhile, arrange a rack in the middle of the oven and heat to 350°F."
+        },
+        {
+          "direction": "Melt the remaining tablespoon of butter; set aside."
+        },
+        {
+          "direction": "Cut the entire pack of rolls in half horizontally, keeping each half intact and connected. Place the bottom half of the rolls on a baking sheet. Top with the roast beef (about 1 slice per roll). Spread the onions in an even layer over top, then sprinkle evenly with the cheese. Place the top layer of rolls over the cheese. Brush the top of the rolls with the melted butter. Sprinkle with the garlic powder and onion powder."
+        },
+        {
+          "direction": "Cover the baking sheet with aluminum foil and bake for 15 minutes. Uncover and bake until the cheese is melted and the rolls are lightly browned, 5 to 7 minutes more. Let cool for 5 minutes before serving. Sprinkle with the parsley, if desired."
+        }
+      ],
+      "rating": 91,
+      "Calories": 430,
+      "Protein": 13.5,
+      "Fat": 11.2,
+      "Carbohydrates": 20.8,
+      "likes": 0,
+      "comment": []
+    },
+    {
+      "id": "4",
+      "name": "Crispy Quinoa Burgers",
+      "price": "580",
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/b7/4f/b74fac76ffdba8d47d4e59cc904d9581_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "1 cup cannellini beans (mashed)"
+        },
+        {
+          "ingredient": "1 clove garlic, minced or grated"
+        },
+        {
+          "ingredient": "1 teaspoon chipotle chili powder"
+        },
+        {
+          "ingredient": "4 sweet potatoes, cut into matchsticks"
+        },
+        {
+          "ingredient": "1 teaspoon chipotle chili powder"
+        },
+        {
+          "ingredient": "2 large yellow onions, thinly sliced"
+        },
+        {
+          "ingredient": "2 cups cooked quinoa"
+        },
+        {
+          "ingredient": "4 tablespoon extra-virgin olive oil"
+        },
+        {
+          "ingredient": "1/2 teaspoon smoked paprika"
+        },
+        {
+          "ingredient": "1/2 cup Panko bread crumbs"
+        },
+        {
+          "ingredient": "6 burger buns, toasted"
+        },
+        {
+          "ingredient": "3/4 cup shredded sharp cheddar cheese"
+        },
+        {
+          "ingredient": "1/2 cup shredded gruyere cheese"
+        },
+        {
+          "ingredient": "2 tablespoons salted butter"
+        },
+        {
+          "ingredient": "1 large egg, beaten"
+        },
+        {
+          "ingredient": "Fried eggs, mashed avocado, and herbs, for serving (optional)"
+        },
+        {
+          "ingredient": "1 cup beer, such as pumpkin, lager, or pilsner"
+        },
+        {
+          "ingredient": "Kosher salt and black pepper"
+        }
+      ],
+      "directions": [
+        {
+          "direction": ". In a medium bowl, combine the quinoa, mashed beans, Panko, egg, garlic, chili powder, cheese, and a pinch each of salt and pepper. Form the mix into 5-6 equal burgers. Place on a plate, cover, and transfer to the fridge."
+        },
+        {
+          "direction": " To make the fries. Preheat the oven to 425 degrees F. Place the sweet potatoes on a large baking sheet and toss with olive oil, chili powder, paprika, and a large pinch each of salt and pepper. Spread the fries in an even layer. Do not overcrowd the pan, if needed, divide the fries between 2 baking sheets Transfer to the oven and bake for 15-20 minutes, then flip and bake for 15-20 minutes more. You want the sweet potatoes to be tender, yet crisp. "
+        },
+        {
+          "direction": "Meanwhile, make the onions. Melt the butter and onions together in a large skillet over medium-high heat. Cook, stirring occasionally until softened, about 5 minutes. At this point, you want to slowly add the beer, 1/4 cup at a time, until the beer cooks into the onions. Continue to cook another 8-10 minutes until you've used all of the beer and the onions are deeply caramelized. Remove the onions from the skillet to a plate."
+        },
+        {
+          "direction": "Cook the burgers in the same skillet, heat a drizzle of oil over medium-high heat. When the oil shimmers, add the burgers and cook until golden and crisp, about 5 minutes per side. During the last minute of cooking add the Gruyere cheese, cover, and cook 2-3 minutes, until the cheese has melted."
+        },
+        {
+          "direction": "To assemble, place each burger on a bun, top with caramelized onions and sweet potatoes. If desired, add a fried egg, mashed avocado, and fresh herbs. ENJOY."
+        }
+      ],
+      "rating": 91,
+      "Calories": 969,
+      "Protein": 66,
+      "Fat": 77.3,
+      "Carbohydrates": 49.1,
+      "likes": 0,
+      "comment": []
+    },
+    {
+      "id": "5",
+      "name": "Skillet Burger with Caramelized Onions",
+      "price": "600",
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/a3/87/a387ba797951035c6ffd06cd8a9263bb_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "1 1/2 pounds ground beef, 20% fat"
+        },
+        {
+          "ingredient": "2 onions sliced"
+        },
+        {
+          "ingredient": "1 teaspoon granulated garlic"
+        },
+        {
+          "ingredient": "1 cup Mayonnaise"
+        },
+        {
+          "ingredient": "1 chipotle pepper in adobo sauce"
+        },
+        {
+          "ingredient": "1 teaspoon adobo sauce"
+        },
+        {
+          "ingredient": "1 tablespoon olive oil"
+        },
+        {
+          "ingredient": "4 Buns"
+        },
+        {
+          "ingredient": "2 tablespoons butter"
+        },
+        {
+          "ingredient": "8 slices cheese"
+        },
+        {
+          "ingredient": "2 teaspoons salt"
+        },
+        {
+          "ingredient": "1 teaspoon black pepper"
+        },
+        {
+          "ingredient": "Pinch of salt and pepper"
+        }
+      ],
+      "directions": [
+        {
+          "direction": "In a small bowl, add the mayo, chipotle, and adobo sauce. Sprinkle with a pinch of salt and pepper and refrigerate until ready to use. "
+        },
+        {
+          "direction": "Divide the meat into four patties and place on a plate; using two-finger gently press the center down slightly."
+        },
+        {
+          "direction": " Heat a skillet/griddle I (I use a cast-iron skillet) on medium-high heat, add butter and sliced onions."
+        },
+        {
+          "direction": " Return the skillet/griddle on high heat. Add olive oil and place patties in skillet."
+        }
+      ],
+      "rating": 88,
+      "Calories": 1295,
+      "Protein": 65,
+      "Fat": 101,
+      "Carbohydrates": 30,
+      "likes": 0,
+      "comment": []
+    },
+    {
+      "id": "6",
+      "name": "Balsamic Portobello Burgers",
+      "price": "650",
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/cb/e6/cbe6a671ee2f5f82db5b6f78ddf6e037_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "1 head garlic (to roast)"
+        },
+        {
+          "ingredient": "3/4 cup raw cashews"
+        },
+        {
+          "ingredient": "2 cloves garlic, minced (omit for less intense garlic flavor)"
+        },
+        {
+          "ingredient": "1 tbsp avocado or olive oil"
+        },
+        {
+          "ingredient": "4 medium-large portobello mushrooms (organic when possible)"
+        },
+        {
+          "ingredient": "3 tbsp avocado or olive oil"
+        },
+        {
+          "ingredient": "2 cloves garlic, minced (2 cloves yield ~1 Tbsp or 6 g)"
+        },
+        {
+          "ingredient": "1 tbsp avocado or olive oil"
+        },
+        {
+          "ingredient": "1 medium white or yellow onion, peeled + sliced into 1/4-inch rings"
+        },
+        {
+          "ingredient": "2 ripe tomatoes, sliced (optional // organic when possible)"
+        },
+        {
+          "ingredient": "Lettuce or greens of choice (optional)"
+        },
+        {
+          "ingredient": "1 tbsp Italian seasoning (dried basil + oregano)"
+        },
+        {
+          "ingredient": "4 whole wheat hamburger buns (ensure vegan-friendly as needed // sub lettuce wraps..."
+        },
+        {
+          "ingredient": "1/3 cup water (or sub unsweetened almond milk for creamier consistency)"
+        },
+        {
+          "ingredient": "Salt + pepper (to taste)"
+        },
+        {
+          "ingredient": "1/4 cup balsamic vinegar"
+        },
+        {
+          "ingredient": "1 healthy pinch each salt and black pepper"
+        }
+      ],
+      "directions": [
+        {
+          "direction": "Preheat oven to 400 degrees F (204 C) and cut off the very top of a head of garlic. Drizzle with a little oil, sprinkle with sea salt, and loosely wrap in foil. Set directly on an oven rack and bake for 1 hour. Let cool before use. Note: To save time, you could buy roasted garlic, or sub the head of roasted garlic for 3-4 additional cloves raw garlic and proceed as instructed."
+        },
+        {
+          "direction": "In the meantime, place cashews in a bowl and cover with just boiling water. Let sit uncovered for 1 hour. Then drain and rinse thoroughly."
+        },
+        {
+          "direction": "While cashews are soaking, use a damp washcloth or paper towel to clean the mushrooms by wiping away any dirt and removing the stems. Place stem side up on a rimmed baking sheet or 9×13-inch baking dish."
+        },
+        {
+          "direction": "To a small mixing bowl, add avocado oil, balsamic vinegar, Italian seasoning, minced garlic, salt, and pepper. Whisk to combine, then pour over the mushrooms and use a pastry brush to distribute the marinade. Flip the mushrooms over and brush the other side, then flip back over to stem-side-up position. Set aside, uncovered at room temperature, to marinate (at least 30 minutes)."
+        },
+        {
+          "direction": "Add your drained, soaked cashews to a small blender. Take your roasted head of garlic and press out the softened garlic by squeezing from the base up until all of the garlic is extracted."
+        },
+        {
+          "direction": "To the blender also add fresh garlic, avocado oil, water (or almond milk), and a pinch each salt and pepper. Blend on high until creamy and smooth, scraping down sides as needed. Taste and adjust seasonings as needed, adding more olive oil or water for creaminess or salt for saltiness. Transfer to a serving dish and set aside."
+        },
+        {
+          "direction": "To caramelize onions, heat a large skillet over medium heat. Once hot, add 1-2 Tbsp avocado oil, the sliced onion, and a pinch of salt. Sauté, stirring frequently, until light golden brown and very soft (see photo). Remove from skillet and set aside."
+        },
+        {
+          "direction": "Return the skillet to the stovetop (or heat a grill and lightly oil grilling surface). Once hot, add portobello mushrooms — only as many as will fit comfortably in the pan — and sauté for about 3-6 minutes on each side, or until the mushrooms are deep golden brown on the edges and softened/reduced in size (see photo). While cooking, brush with any leftover marinade for extra flavor."
+        },
+        {
+          "direction": "At this time, prepare any serving items, such as browning hamburger buns on the skillet (or grill), slicing tomato, or chopping greens."
+        },
+        {
+          "direction": "To serve, add a generous spoonful of garlic aioli to each bun and top with aioli, then tomato, lettuce (or greens), mushrooms, onions, and more aioli on top of the bun."
+        },
+        {
+          "direction": "Enjoy immediately. Store leftover mushrooms separately in the refrigerator up to 2-3 days, though best when fresh. Aioli will keep in the refrigerator for 7-10 days."
+        }
+      ],
+      "rating": 88,
+      "Calories": 465,
+      "Protein": 13.2,
+      "Fat": 29.6,
+      "Carbohydrates": 40.6,
+      "likes": 0,
+      "comment": []
+    },
+    {
+      "id": "7",
+      "name": "Mexican Green Chili Veggie Burgers",
+      "price": "820",
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/a8/14/a814c1f19c65546a02ee32ea1d89be49_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "2 medium shallots (minced)"
+        },
+        {
+          "ingredient": "3 cloves garlic (minced)"
+        },
+        {
+          "ingredient": "1 15-ounce can chickpeas (rinsed + thoroughly drained)"
+        },
+        {
+          "ingredient": "1 4-ounce can mild green chilis (more for topping if desired)"
+        },
+        {
+          "ingredient": "1 tsp cumin"
+        },
+        {
+          "ingredient": "1 medium lime (juiced // 1 lime yields ~3 Tbsp or 45 ml)"
+        },
+        {
+          "ingredient": "1 handful fresh cilantro ((finely chopped (optional) // plus more for serving // 1 handful..."
+        },
+        {
+          "ingredient": "Salsa or green chilis"
+        },
+        {
+          "ingredient": "Ripe Avocado"
+        },
+        {
+          "ingredient": "Red Onion"
+        },
+        {
+          "ingredient": "Cilantro"
+        },
+        {
+          "ingredient": "1-2 tbsp avocado oil (more for cooking shallot/burgers)"
+        },
+        {
+          "ingredient": "1 tsp chili powder"
+        },
+        {
+          "ingredient": "2 tsp coconut or cane sugar (optional // to offset + enhance the heat of the green chilies)Buns, toasted"
+        },
+        {
+          "ingredient": "1/2 cup finely crushed yellow tortilla chips (or sub bread crumbs)"
+        },
+        {
+          "ingredient": "1/4 tsp each sea salt and pepper (to taste)"
+        }
+      ],
+      "directions": [
+        {
+          "direction": "Heat a large skillet over medium heat (and preheat oven to 375 degrees F (190 C) for a firmer burger). Line a baking sheet with parchment paper or leave bare."
+        },
+        {
+          "direction": "Once skillet is hot, add 1 Tbsp oil, shallot and garlic. Sauté, stirring frequently, until soft and translucent – about 1-2 minutes."
+        },
+        {
+          "direction": "Add garlic and shallot directly to a mixing bowl. Then add drained chickpeas and use a fork or pastry cutter to mash/mix. A little texture is OK, but you only want a few whole chickpeas remaining."
+        },
+        {
+          "direction": "Add remaining ingredients, including oil, and stir/mash to combine. You want it to form into a moldable “dough.” Add more oil or lime juice if too dry, or more crushed chips if too wet. Taste and adjust seasonings as needed."
+        },
+        {
+          "direction": "Divide into 4 even patties (see photo // amount as original recipe is written // adjust if altering batch size). To help form them, line a 1/2 cup measuring cup with plastic wrap and scoop out 1/2 cup amounts (use a 1/4 cup measuring cup for 8 smaller burgers // amount as original recipe is written // adjust if altering batch size). Press to pack, then lift out and slightly flatten with hands."
+        },
+        {
+          "direction": "Heat the same skillet you used earlier to medium heat. Once hot, add enough oil to form a thin layer on the bottom of your skillet, then add only as many burgers as will fit comfortably. Cook for 3-4 minutes on each side, flipping gently, and reducing heat if browning too quickly."
+        },
+        {
+          "direction": "You can either serve your burgers as is, or pop them on a baking sheet and bake in a 375-degree F (190 C) oven for an additional 15-20 minutes or more to dry/crisp them up. However, they’re great as is! The longer you bake them, the drier/firmer they’ll become."
+        },
+        {
+          "direction": "Let cool for 2-3 minutes before serving (they’ll firm up as they cool). To serve, lay down cilantro on bottom half of a toasted bun. Then top with burger, onion, salsa or green chilies, avocado or any other desired toppings."
+        }
+      ],
+      "rating": 88,
+      "Calories": 248,
+      "Protein": 8.8,
+      "Fat": 10,
+      "Carbohydrates": 29.4,
+      "likes": 0,
+      "comment": []
+    },
+    {
+      "id": "8",
+      "name": "Avocado Chicken Burgers",
+      "price": "450",
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/5e/4b/5e4b7a4f4c095b96fa314fd912429299_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "500 g/ 1.2 lb ground chicken (mince) (Note 1)"
+        },
+        {
+          "ingredient": "1 cup green onion (finely sliced (2 stems))"
+        },
+        {
+          "ingredient": "2 garlic cloves (minced)"
+        },
+        {
+          "ingredient": "1/2 tsp dried sage (Note 3)"
+        },
+        {
+          "ingredient": "1 avocado (big) (or 2 medium)"
+        },
+        {
+          "ingredient": "60 g / 2 oz rocket / arugula or other lettuce of choice"
+        },
+        {
+          "ingredient": "2 tomatoes (sliced)"
+        },
+        {
+          "ingredient": "Mayonnaise, relish, ketchup or tomato sauce (to smear lid)"
+        },
+        {
+          "ingredient": "2 tbsp olive oil"
+        },
+        {
+          "ingredient": "1 cup panko breadcrumbs"
+        },
+        {
+          "ingredient": "4 soft burger buns or brioche buns"
+        },
+        {
+          "ingredient": "French fries"
+        },
+        {
+          "ingredient": "3/4 cup parmesan (finely grated (Note 2))"
+        },
+        {
+          "ingredient": "4 slices Swiss cheese (or other cheese)"
+        },
+        {
+          "ingredient": "1 egg"
+        },
+        {
+          "ingredient": "1/2 tsp salt and pepper (each)"
+        },
+        {
+          "ingredient": "Baked potato wedges"
+        }
+      ],
+      "directions": [
+        {
+          "direction": "Place Pattie ingredients in bowl, mix well with hands."
+        },
+        {
+          "direction": "Form 4 patties, 1.5cm / 3/5″ thick, slightly larger than the buns (shrinks slightly). If mixture is super sticky (Note 4), either refrigerate mixture for 30 minutes, or wet hands or lightly spray hands with oil (I do this)."
+        },
+        {
+          "direction": "Heat oil in skillet over medium high heat. Add patties, working in batches. Cook for 2 minutes or until deep golden, then flip."
+        },
+        {
+          "direction": "After 1 minute, top with a piece of cheese and place lid on to melt cheese."
+        },
+        {
+          "direction": "Once cheese is melted, remove patties from skillet."
+        }
+      ],
+      "rating": 84,
+      "Calories": 737,
+      "Protein": 46,
+      "Fat": 43,
+      "Carbohydrates": 45,
+      "likes": 0,
+      "comment": []
+    },
+    {
+      "id": "9",
+      "name": "Turkey Burger",
+      "price": "600",
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/5e/88/5e88df07e3fb416f5f528a33627d774d_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "1 pound lean ground turkey"
+        },
+        {
+          "ingredient": "1/2 teaspoon onion powder"
+        },
+        {
+          "ingredient": "1 1/2 tablespoons ketchup"
+        },
+        {
+          "ingredient": "1 tablespoon Dijon mustard"
+        },
+        {
+          "ingredient": "1 teaspoon Worcestershire sauce"
+        },
+        {
+          "ingredient": "1/2 teaspoon garlic powder"
+        },
+        {
+          "ingredient": "1 tablespoon canola oil (or use pan spray)"
+        },
+        {
+          "ingredient": "1/3 cup bread crumbs"
+        },
+        {
+          "ingredient": "4 buns"
+        },
+        {
+          "ingredient": "1 egg"
+        },
+        {
+          "ingredient": "3/4 teaspoon salt"
+        },
+        {
+          "ingredient": "1/2 teaspoon freshly ground pepper"
+        }
+      ],
+      "directions": [
+        {
+          "direction": " Heat the canola oil in a nonstick griddle or large nonstick frying pan over medium-high heat. (Or spray generously with non-stick cooking spray). Once hot, cook the patties for 4-5 minutes on each side."
+        },
+        {
+          "direction": "Freeze the patties for 20 minutes before grilling (this will help the hold their shape.) Grill for a few minutes on each side, until cooked through."
+        },
+        {
+          "direction": "Bake at 375 F for 25-30 minutes. Then sear on a hot pan for 2 minutes on each side."
+        },
+        {
+          "direction": "Serve on buns, with the condiments of your choice."
+        }
+      ],
+      "rating": 85,
+      "Calories": 395,
+      "Protein": 35,
+      "Fat": 10,
+      "Carbohydrates": 42,
+      "likes": 0,
+      "comment": []
+    }
+  ],
+  "breakfast": [
+    {
+      "id": "1",
+      "name": "Maca Latte with Coffee",
+      "price": "300",
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/05/85/0585928b750c33c72d0c5099a0c3624a_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "1 tablespoon maca powder"
+        },
+        {
+          "ingredient": "1/2 tablespoon cacao (or cocoa powder, optional)"
+        },
+        {
+          "ingredient": "1 pinch cinnamon"
+        },
+        {
+          "ingredient": "1 teaspoon pure vanilla extract"
+        },
+        {
+          "ingredient": "1/2 tablespoon maple syrup (or granulated sweetener, plus more to taste; optional)"
+        },
+        {
+          "ingredient": "1 shot espresso (prepared)"
+        },
+        {
+          "ingredient": "1 cup milk of choice"
+        }
+      ],
+      "directions": [
+        {
+          "direction": "Heat medium saucepan over medium-low heat. When pan is warm, add 1 cup milk of choice and heat, stirring occasionally, until warm."
+        },
+        {
+          "direction": "Add cacao, maca powder, cinnamon, vanilla extract, and maple syrup to saucepan. Whisk well to combine, then let mixture simmer. Whisk occasionally until mixture is hot or very warm (as desired)."
+        },
+        {
+          "direction": "If using sieve or strainer, fit tool over serving mug or glass. Slowly and carefully, pour liquid through strainer and into container. Discard any clumps or sediment collected by strainer."
+        },
+        {
+          "direction": "Pour espresso shot on top of maca latte in serving mug. Stir to incorporate if desired and serve immediately."
+        }
+      ],
+      "rating": 87,
+      "Calories": 238,
+      "Protein": 11,
+      "Fat": 10,
+      "Carbohydrates": 26,
+      "likes": 0,
+      "comment": []
+    },
+    {
+      "id": "2",
+      "name": "Pancakes",
+      "price": "150",
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/84/57/8457babcdb86d9255181334d88d02d13_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "2 cups all-purpose flour"
+        },
+        {
+          "ingredient": "2 tablespoons granulated sugar"
+        },
+        {
+          "ingredient": "2 tablespoons vegetable oil, plus more for cooking"
+        },
+        {
+          "ingredient": "Powdered sugar or maple syrup, for serving"
+        },
+        {
+          "ingredient": "1 1/2 cups milk"
+        },
+        {
+          "ingredient": "2 large eggs"
+        },
+        {
+          "ingredient": "2 teaspoons baking powder"
+        },
+        {
+          "ingredient": "1/2 teaspoon kosher salt"
+        }
+      ],
+      "directions": [
+        {
+          "direction": "Combine the dry ingredients in a large bowl. Place 2 cups all-purpose flour, 2 tablespoons granulated sugar, 2 teaspoons baking powder, and 1/2 teaspoon kosher salt in a large bowl and whisk to combine."
+        },
+        {
+          "direction": "Add the wet ingredients. Add 1 1/2 cups milk, 2 large eggs, and 2 tablespoons vegetable oil. Whisk until almost smooth, a few small lumps are fine."
+        },
+        {
+          "direction": "Let the batter rest while you heat a pan. Set the batter aside for 10 minutes. Meanwhile, heat a large cast iron or nonstick skillet over medium-high heat."
+        },
+        {
+          "direction": "Fry 3 pancakes for 3 minutes. Add 1 teaspoon of vegetable oil to the pan and swirl to coat. Add 2-tablespoon portions of the batter to the pan, cooking 3 at a time. Cook on the first side until bubbles appear on the surface, the edges begin to look dry, and the bottoms are golden-brown, about 3 minutes."
+        },
+        {
+          "direction": "Flip and cook for another 2 to 3 minutes. Flip the pancakes. Cook until the second sides are golden-brown, 2 to 3 minutes more. Transfer to a warm oven or plate. Repeat using more oil and cooking the remaining batter."
+        }
+      ],
+      "rating": 97,
+      "Calories": 150,
+      "Protein": 8.3,
+      "Fat": 8.6,
+      "Carbohydrates": 39.4,
+      "likes": 1,
+      "comment": "good taste"
+    },
+    {
+      "id": "3",
+      "name": "Crispy Eggplant Bacon",
+      "price": "300",
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/82/77/82778f6ae4d4c868a20f787ea6682c69_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "1 medium eggplant"
+        },
+        {
+          "ingredient": "1 tbsp avocado or olive oil"
+        },
+        {
+          "ingredient": "1 1/2 tbsp tamari"
+        },
+        {
+          "ingredient": "1 tbsp vegan Worcestershire"
+        },
+        {
+          "ingredient": "2 tsp liquid smoke"
+        },
+        {
+          "ingredient": "1 tbsp maple syrup"
+        },
+        {
+          "ingredient": "1 tsp smoked paprika"
+        },
+        {
+          "ingredient": "1 pinch garlic powder"
+        },
+        {
+          "ingredient": "1 pinch sea salt"
+        },
+        {
+          "ingredient": "1/2 tsp freshly cracked black pepper"
+        }
+      ],
+      "directions": [
+        {
+          "direction": "Preheat oven to 250 degrees F (121 C) – you can turn it to “convection bake” if you have it to speed cooking time. Line 1 large or 2 small baking sheet(s) with parchment paper (amount/size as original recipe is written // adjust if altering batch size)."
+        },
+        {
+          "direction": "Slice an eggplant in half lengthwise and set one half aside for other uses (such as Baba Ganoush, Vegan Queso, or 1-Pot Pasta). Then cut the remaining eggplant in half lengthwise once more so you have two long, skinny pieces."
+        },
+        {
+          "direction": "Slice an eggplant in half lengthwise and set one half aside for other uses (such as Baba Ganoush, Vegan Queso, or 1-Pot Pasta). Then cut the remaining eggplant in half lengthwise once more so you have two long, skinny pieces."
+        },
+        {
+          "direction": "Make sauce by adding avocado oil, tamari, Worcestershire sauce, maple syrup, liquid smoke, paprika, sea salt, garlic powder, and black pepper to a small mixing bowl and whisking to combine."
+        }
+      ],
+      "rating": 99,
+      "Calories": 21,
+      "Protein": 0.4,
+      "Fat": 1,
+      "Carbohydrates": 2.8,
+      "likes": 0,
+      "comment": []
+    },
+    {
+      "id": "4",
+      "name": "Scrambled Eggs with cottage cheese",
+      "price": "250",
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/d7/57/d757223062cc45538dc58aff9e8c980c_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "Olive oil spray"
+        },
+        {
+          "ingredient": "1/2 cup 2% cottage cheese"
+        },
+        {
+          "ingredient": "4 large eggs"
+        },
+        {
+          "ingredient": "1/8 teaspoon kosher salt"
+        },
+        {
+          "ingredient": "Fresh ground black pepper"
+        }
+      ],
+      "directions": [
+        {
+          "direction": "In a medium bowl, whisk the eggs, cottage cheese, kosher salt and black pepper, to taste with a fork."
+        },
+        {
+          "direction": "Heat a medium nonstick skillet over medium-low heat and spray with oil. When warm, pour the eggs in."
+        },
+        {
+          "direction": "Using a rubber spatula, slowly scrape sections of eggs to the center of the pan as the bottom starts to set, creating soft folds for about 1 1/2 to 2 minutes total until just set."
+        }
+      ],
+      "rating": 94,
+      "Calories": 173,
+      "Protein": 17.5,
+      "Fat": 10.5,
+      "Carbohydrates": 1.5,
+      "likes": 0,
+      "comment": []
+    },
+    {
+      "id": "5",
+      "name": "Zucchini Muffins",
+      "price": "150",
+      "image": "https://d1yfn1dfres2va.cloudfront.net/006/bd/0f/bd0f1854b48916a4128ee1085164344a_640m.jpg",
+      "ingredients": [
+        {
+          "ingredient": "3 cups (packed) grated fresh zucchini"
+        },
+        {
+          "ingredient": "1 teaspoon ground ginger"
+        },
+        {
+          "ingredient": "1 cup walnuts (optional)"
+        },
+        {
+          "ingredient": "1 cup raisins or dried cranberries (optional)"
+        },
+        {
+          "ingredient": "1 1/3 cup (280 g) sugar"
+        },
+        {
+          "ingredient": "2 teaspoons vanilla extract"
+        },
+        {
+          "ingredient": "2 3/4 cups (400 g) all-purpose flour"
+        },
+        {
+          "ingredient": "2 teaspoons cinnamon"
+        },
+        {
+          "ingredient": "1/2 teaspoon nutmeg"
+        },
+        {
+          "ingredient": "3/4 cup unsalted butter, melted"
+        },
+        {
+          "ingredient": "2 large eggs"
+        },
+        {
+          "ingredient": "1 teaspoon baking soda"
+        },
+        {
+          "ingredient": "1 teaspoon baking powder"
+        },
+        {
+          "ingredient": "1/4 teaspoon salt"
+        }
+      ],
+      "directions": [
+        {
+          "direction": "Preheat the oven to 350°F (175°C).Coat each muffin cup in your muffin pan with a little butter or vegetable oil spray."
+        },
+        {
+          "direction": "In a large bowl, beat the eggs. Mix in the sugar and vanilla extract. Stir in the grated zucchini and the melted butter.In a separate bowl, mix together the flour, baking soda, baking powder, cinnamon, ground ginger, nutmeg, and salt."
+        },
+        {
+          "direction": "Stir these dry ingredients into the zucchini mixture. (Do not over-mix!) Stir in walnuts, raisins or cranberries if using."
+        },
+        {
+          "direction": "Use a spoon to distribute the muffin dough equally among the cups, filling the cups up completely, above the surface of the muffin tin."
+        }
+      ],
+      "rating": 95,
+      "Calories": 334,
+      "Protein": 5,
+      "Fat": 13,
+      "Carbohydrates": 50,
+      "likes": 0,
+      "comment": []
+    }
+  ]
+}
